@@ -1,0 +1,164 @@
+fileFormatVersion: 2
+guid: b1035f131f5d45e42b38d0d8dbc98934
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Tombstone_Cartoonstle
+    100002: Tombstone_Cartoonstle001
+    100004: Tombstone_Cartoonstle002
+    100006: Tombstone_Cartoonstle003
+    100008: Tombstone_Cartoonstle004
+    100010: Tombstone_Cartoonstle005
+    100012: Tombstone_Cartoonstle006
+    100014: Tombstone_Cartoonstle007
+    100016: Tombstone_Cartoonstle008
+    100018: Tombstone_Square
+    100020: Tombstone_Square001
+    100022: Tombstone_Square003
+    100024: Tombstone_Square004
+    100026: Tombstone_Square005
+    100028: //RootNode
+    400000: Tombstone_Cartoonstle
+    400002: Tombstone_Cartoonstle001
+    400004: Tombstone_Cartoonstle002
+    400006: Tombstone_Cartoonstle003
+    400008: Tombstone_Cartoonstle004
+    400010: Tombstone_Cartoonstle005
+    400012: Tombstone_Cartoonstle006
+    400014: Tombstone_Cartoonstle007
+    400016: Tombstone_Cartoonstle008
+    400018: Tombstone_Square
+    400020: Tombstone_Square001
+    400022: Tombstone_Square003
+    400024: Tombstone_Square004
+    400026: Tombstone_Square005
+    400028: //RootNode
+    2100000: 'Material #40'
+    2300000: Tombstone_Cartoonstle
+    2300002: Tombstone_Cartoonstle001
+    2300004: Tombstone_Cartoonstle002
+    2300006: Tombstone_Cartoonstle003
+    2300008: Tombstone_Cartoonstle004
+    2300010: Tombstone_Cartoonstle005
+    2300012: Tombstone_Cartoonstle006
+    2300014: Tombstone_Cartoonstle007
+    2300016: Tombstone_Cartoonstle008
+    2300018: Tombstone_Square
+    2300020: Tombstone_Square001
+    2300022: Tombstone_Square003
+    2300024: Tombstone_Square004
+    2300026: Tombstone_Square005
+    3300000: Tombstone_Cartoonstle
+    3300002: Tombstone_Cartoonstle001
+    3300004: Tombstone_Cartoonstle002
+    3300006: Tombstone_Cartoonstle003
+    3300008: Tombstone_Cartoonstle004
+    3300010: Tombstone_Cartoonstle005
+    3300012: Tombstone_Cartoonstle006
+    3300014: Tombstone_Cartoonstle007
+    3300016: Tombstone_Cartoonstle008
+    3300018: Tombstone_Square
+    3300020: Tombstone_Square001
+    3300022: Tombstone_Square003
+    3300024: Tombstone_Square004
+    3300026: Tombstone_Square005
+    4300000: Tombstone_Cartoonstle
+    4300002: Tombstone_Cartoonstle001
+    4300004: Tombstone_Cartoonstle002
+    4300006: Tombstone_Cartoonstle003
+    4300008: Tombstone_Cartoonstle004
+    4300010: Tombstone_Cartoonstle005
+    4300012: Tombstone_Cartoonstle006
+    4300014: Tombstone_Cartoonstle007
+    4300016: Tombstone_Cartoonstle008
+    4300018: Tombstone_Square
+    4300020: Tombstone_Square001
+    4300022: Tombstone_Square003
+    4300024: Tombstone_Square004
+    4300026: Tombstone_Square005
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
